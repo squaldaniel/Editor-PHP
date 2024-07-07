@@ -1,16 +1,16 @@
 {
-	"name": "datatables.net/editor-php",
+	"name": "lingkernel/editor-php",
 	"description": "PHP server-side libraries for Editor",
 	"type": "library",
 	"require": {
 		"php": ">=5.4.0 <8.4"
 	},
 	"keywords": ["DataTables","jQuery","Editor"],
-	"homepage": "https://editor.datatables.net",
+	"homepage": "https://kingkernel.com.br",
 	"authors": [
 		{
 			"name": "SpryMedia Ltd",
-			"homepage": "https://datatables.net"
+			"homepage": "https:/lingkernel.com.br"
 		}
 	],
 	"require-dev": {
